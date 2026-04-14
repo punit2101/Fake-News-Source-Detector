@@ -3,7 +3,7 @@ import networkx as nx
 
 
 INPUT_PATH   = "data.txt"
-OUT_HTML = "output/source_detection_enhanced.html"
+OUT_HTML = "outputs/source_detection_enhanced.html"
 MAX_SOURCES  = 3
 
 if not os.path.exists(INPUT_PATH):
